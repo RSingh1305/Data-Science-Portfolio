@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 Repository containing portfolio of all my Data Science projects, completed during my academic, self-learning and professional experience.
 
 Tools:
